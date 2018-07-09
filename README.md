@@ -5,6 +5,8 @@ Embrace failure
 
 Retry on failure
 
+Replay on failure
+
 Transactionality is paramount.
 
 Consume everything from Queue even on error.
